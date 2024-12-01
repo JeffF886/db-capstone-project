@@ -1,0 +1,1 @@
+This is the capstone project for the Meta Database Engineer Professional Certificate course from Coursera.
